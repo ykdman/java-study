@@ -5,5 +5,6 @@
 
     <body>
         <h1>Login !!!</h1>
+        <p>${name}</p>
     </body>
 </html>
